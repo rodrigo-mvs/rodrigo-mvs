@@ -1,28 +1,3 @@
-# Hi there 👋
-
-<!--
-**rodrigo-mvs/rodrigo-mvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Computer Science & Engineering @ Universidade de Aveiro
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-mvs) 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rodrigo-mvs&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=rodrigo-mvs&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-mvs&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-mvs&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-mvs&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
