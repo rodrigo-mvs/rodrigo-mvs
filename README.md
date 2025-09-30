@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-mvs&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-mvs&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=rodrigo-mvs&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="rodrigo-mvs's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-mvs&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="rodrigo-mvs's GitHub Stats" />
 </div>
 
 ###
